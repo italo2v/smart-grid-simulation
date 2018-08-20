@@ -46,8 +46,8 @@ SMART_METERS_GENERATION = [71.4137*2, 71.4137*1.5, 71.4137*1.25]; % 71.4137 mean
 CLEAN_ENERGY_DISPERSION = 0.15; % 25% of the clean energy generation
 
 % actually simulating 50% of energy demand provided from wind and solar
-WIND_MENSAL_GENERATION = 0.4;
-SOLAR_MENSAL_GENERATION = 0.4;
+WIND_MENSAL_GENERATION = 0.25;
+SOLAR_MENSAL_GENERATION = 0.25;
 
 % assign some prices to clean and dirty energy for each month (obtained from suitable_price_simulation.m)
 % source: "Incentivando o Consumo de Energia Limpa Com Precifica??o Din?mica", In Portugueese, Italo Brito et al. (Table I)
